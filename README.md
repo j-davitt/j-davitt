@@ -1,4 +1,3 @@
-# 👋 Hi, I'm Joseph Davitt
 
 ![Header](./banner.png)
 
