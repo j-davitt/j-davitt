@@ -12,7 +12,6 @@
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=j-davitt&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j-davitt&theme=dracula&layout=compact)
 
@@ -21,4 +20,4 @@
 - Header from [Canva](https://www.canva.com/)
 - GitHub stats from [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=j-davitt&left_color=black&right_color=grey)
+
